@@ -1,0 +1,33 @@
+body{
+    background: url(images/fun.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.flex-box{
+    display: flex;  
+    padding: 25%;
+    padding-top: 5%;
+    width: 50%;
+    height: 50px;  
+}
+h1{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    margin-left: 35%;
+    padding: 20px;
+}
+.details{
+    /* background-color: rgb(248, 242, 242); */
+    margin-left: 30%;
+    min-width: 200px;
+    color: rgb(248, 247, 247);
+    width: 50%;  
+    height: 300px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 10%;
+    text-transform: capitalize;
+    word-wrap: break-word; 
+}
